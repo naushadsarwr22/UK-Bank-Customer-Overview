@@ -23,3 +23,6 @@ Kaggle  …..
 -	Find the distribution of customers based on age.
 -	Find the Distribution of Customer on the basic of Balance
 -	Find customers based on job classification.
+
+## Dashboard
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="900" height="600">
