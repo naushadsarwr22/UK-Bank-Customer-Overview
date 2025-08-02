@@ -25,4 +25,4 @@ Kaggle  …..
 -	Find customers based on job classification.
 
 ## Dashboard
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="900" height="600">
+<img src="https://github.com/naushadsarwr22/UK-Bank-Customer-Overview/blob/main/UK%20Bank%20Customer%20Dashboard_Tableau.png" width="900" height="600">
