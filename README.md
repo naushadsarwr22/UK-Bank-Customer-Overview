@@ -8,11 +8,9 @@ The dashboard was built using the following tools and technologies:
 
 • 📊 Tableau Desktop – Main data visualization platform used for report creation.
 
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 VizQL (Data Analysis Expressions) – Used for building visualizations and performing calculations directly within the visual interface.
 
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+• 📁 File Format – .twb for development and .png for dashboard previews.
 
 ## Data Source
 Kaggle  …..
