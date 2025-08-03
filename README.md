@@ -1,7 +1,7 @@
 # UK-Bank-Customer-Overview
 
 UK Bank Customer Survey Dashboard
-UK Bank Customer Survey Dashboard is an interactive data visualization tool designed to evaluate bank’s customers survey report to enhance its performance, expertise and future strategies. With different demographic exploring tools, this dashboard will help you navigate routes in generating new customers according to the gender, age group, employment status, and region they belong to. 
+UK Bank Customer Survey Dashboard is an interactive data visualization tool designed to evaluate bank’s customers survey report to enhance its performance, expertise and future strategies using Tableau. With different demographic exploring tools, this dashboard will help you navigate routes in generating new customers according to the gender, age group, employment status, and region they belong to. 
 
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
